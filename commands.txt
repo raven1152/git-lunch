@@ -1,5 +1,6 @@
 porcelain
 	init
+	commit
 
 plumbing
 	cat-file
