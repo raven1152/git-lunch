@@ -1,0 +1,19 @@
+{
+  "name": "git-lunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raven1152/git-lunch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raven1152/git-lunch/issues"
+  },
+  "homepage": "https://github.com/raven1152/git-lunch#readme"
+}
